@@ -1,0 +1,85 @@
+a{
+    text-decoration-line: none;    
+   
+    
+}
+.panel-card{
+    margin-bottom: 20px !important;
+    border-radius: 4px;
+    box-shadow: 0 1px 1px rgba(0,0, 0 / 5%);
+    position: relative;
+    overflow: hidden;
+    
+}
+.panel-card-header{
+    padding: 15px;
+    position: relative;
+    font-family: "Montserrat";
+    font-size: 25px;
+    
+
+}
+
+.row{
+    margin: 10px !important;
+    
+   
+}
+
+.huge{
+    font-size: 40px !important;
+    line-height: normal !important;
+    font-weight: bold  !important;
+    font-family: "Poppins" !important;   
+    
+}
+
+.panel-card-footer{
+    padding: 3px !important;
+    text-align: center;
+    
+}
+
+.panel-card-footer span{
+    padding: 5px;
+    font-size: 20px;
+    line-height: 25px;
+    font-weight: medium im !important;
+    opacity: 1;
+   
+   
+    
+}
+
+.panel-card-footer a{
+    color: white !important;
+   
+}
+
+.bg-primary-2{
+    background: #00bae0 !important;
+   width: 23em;
+
+}
+
+.bg-primary-3{
+    background: rgb(197, 42, 42) !important;
+   width: 23em;
+
+}
+
+
+.bg-primary-4{
+    background: rgb(94, 197, 56) !important;
+   width: 23em;
+
+}
+
+.bg-primary-5{
+    background: rgb(205, 224, 32) !important;
+   width: 23em;
+
+}
+.bg-primary-dark{
+    background: rgba(0, 0, 0, 0.15) !important;
+}
